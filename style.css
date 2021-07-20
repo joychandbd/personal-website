@@ -2,7 +2,7 @@ body{
     font-family:"Poppins", sans-serif;
 }
 .container{
-    overflow: hidden;
+    height: 80%;
 }
 .half-width{
     width: 40%;
